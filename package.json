@@ -46,7 +46,7 @@
     "file-saver": "^2.0.2",
     "filesaver": "0.0.13",
     "http": "0.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "mysql": "^2.17.1",
     "ng-multiselect-dropdown-angular7": "^0.1.5",
